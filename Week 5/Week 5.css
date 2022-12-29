@@ -129,32 +129,35 @@ height: 750px;
 }
 /* Task four */
 .four{
-    background-color: rgb(rgb(225, 255, 54));
-    color:rgb(86, 100, 8);
+    background-color: rgb(rgb(88, 101, 12));
+    color:rgb(228, 251, 98);
     width: 100%;
     margin: auto;
     height: 750px;
     }
     .four img{
         width: 50%;
-        margin-right: 60%;
-        height:100%;
+        margin-right: 50%;
+        height: 100%;
     }
     .four .right{
-        width: 50%;
-        margin-right: 200px;
+        margin-left: 50%;
         margin-top: -750px;
-        text-align: right;
     }
     .four h1{
         font-size: 72px;
-        margin-bottom: 10px;
-    }
-    .four li{
-        font-size: 28px;
-        font-weight: 200;
         margin-bottom: 30px;
+        text-align: center; 
     }
+    .four p{
+        font-size: 45px;
+        font-weight: 200;
+        padding-left: 100px;
+        margin-top: 250px;
+        margin-bottom: 40;
+       
+    }
+
 /* Task five */
 .five{
     background-color: rgb(rgb(225, 255, 54));
